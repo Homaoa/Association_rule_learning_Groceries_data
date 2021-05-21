@@ -8,5 +8,7 @@ Lift is used as a metric to compare the strength of different rules. The results
 
 Also, the model is designed to look for rules with two items. Of course, the model can be used to find rules for an many as items that is needed. 
 
+At the end, the result is saved as a csv file.
+
 Data source : http://www.sci.csueastbay.edu/~esuess/classes/Statistics_6620/Presentations/ml13/groceries.csv
 
